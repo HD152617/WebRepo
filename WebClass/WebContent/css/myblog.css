@@ -1,0 +1,74 @@
+@CHARSET "EUC-KR";
+
+#register {
+	margin-left: 6px;
+	text-decoration: none;
+}
+
+h1 {
+	color: #ff8080;
+	text-align: center;
+	font-weight: bold;
+}
+
+#register2 {
+	margin-top: 15px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: bold;
+}
+
+#list-example {
+	float: left;
+	padding-bottom: 80px;
+}
+
+.form-group {
+	font-size: 16px;
+}
+
+#space {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.container {
+	padding-top: 30px;
+	padding-box: 20px;
+}
+
+h4{
+	padding-top: 30px;
+	padding-bottom:30px;
+}
+
+body{
+	background-color:#accfcc;
+}
+
+.navbar{
+	background-color:#000000;
+}
+
+#textarea1{
+	margin-left: 300px;
+	margin-top: 30px;
+	text-align: center;
+}
+
+#list-item-1{
+	font-weight: bold;
+}
+
+#list-item-2{
+	font-weight: bold;
+}
+
+#list-item-3{
+	font-weight: bold;
+}
+
+.form-group {
+	width: 500px;
+}
