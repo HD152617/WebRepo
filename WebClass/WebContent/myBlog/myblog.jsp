@@ -79,19 +79,19 @@
 			</ol>
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img class="d-block w-100" src="/WebClass/image/우주.jpeg" alt="First slide">
+					<img class="d-block w-100" src="/WebClass/image/space.jpeg" alt="First slide">
 				</div>
 				<div class="carousel-item">
-					<img class="d-block w-100" src="/WebClass/image/우주2.JPG" alt="Second slide">
+					<img class="d-block w-100" src="/WebClass/image/space2.JPG" alt="Second slide">
 				</div>
 				<div class="carousel-item">
-					<img class="d-block w-100" src="/WebClass/image/우주3.jpg" alt="Third slide">
+					<img class="d-block w-100" src="/WebClass/image/space3.jpg" alt="Third slide">
 				</div>
 				<div class="carousel-item">
-					<img class="d-block w-100" src="/WebClass/image/우주4.jpg" alt="Fourth slide">
+					<img class="d-block w-100" src="/WebClass/image/space4.jpg" alt="Fourth slide">
 				</div>
 				<div class="carousel-item">
-					<img class="d-block w-100" src="/WebClass/image/우주5.jpg" alt="Fifth slide">
+					<img class="d-block w-100" src="/WebClass/image/space5.jpg" alt="Fifth slide">
 				</div>
 			</div>
 			<a class="carousel-control-prev" href="#carouselExampleIndicators"
